@@ -1,0 +1,15 @@
+comtypes
+
+opencv-python
+
+openvino-python
+
+py-grabber
+python_grabber
+
+PyQt5
+
+
+pyvirtualcam
+
+pyyaml
